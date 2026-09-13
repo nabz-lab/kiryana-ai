@@ -1,0 +1,172 @@
+{
+  "price_date": "2026-09-10",
+  "location": "Pakistan reference prices; not a live Karachi quote",
+  "items": [
+    {
+      "name": "Atta",
+      "category": "staple",
+      "unit": "kg",
+      "price": 135,
+      "priority": "essential",
+      "per_person_week": 1.5,
+      "min_qty": 1
+    },
+    {
+      "name": "Rice",
+      "category": "staple",
+      "unit": "kg",
+      "price": 154,
+      "priority": "essential",
+      "per_person_week": 0.6,
+      "min_qty": 0.5
+    },
+    {
+      "name": "Masoor Daal",
+      "category": "pulse",
+      "unit": "kg",
+      "price": 260,
+      "priority": "essential",
+      "per_person_week": 0.2,
+      "min_qty": 0.5
+    },
+    {
+      "name": "Chana Daal",
+      "category": "pulse",
+      "unit": "kg",
+      "price": 308,
+      "priority": "essential",
+      "per_person_week": 0.15,
+      "min_qty": 0.5
+    },
+    {
+      "name": "Cooking Oil",
+      "category": "staple",
+      "unit": "L",
+      "price": 613,
+      "priority": "essential",
+      "per_person_week": 0.25,
+      "min_qty": 0.5
+    },
+    {
+      "name": "Sugar",
+      "category": "staple",
+      "unit": "kg",
+      "price": 146,
+      "priority": "important",
+      "per_person_week": 0.18,
+      "min_qty": 0.5
+    },
+    {
+      "name": "Tea",
+      "category": "breakfast",
+      "unit": "190 g pack",
+      "price": 570,
+      "priority": "important",
+      "per_person_week": 0.2,
+      "min_qty": 1
+    },
+    {
+      "name": "Eggs",
+      "category": "protein",
+      "unit": "dozen",
+      "price": 235,
+      "priority": "important",
+      "per_person_week": 0.18,
+      "min_qty": 1
+    },
+    {
+      "name": "Milk",
+      "category": "dairy",
+      "unit": "L",
+      "price": 219,
+      "priority": "important",
+      "per_person_week": 0.5,
+      "min_qty": 1
+    },
+    {
+      "name": "Bread",
+      "category": "breakfast",
+      "unit": "loaf",
+      "price": 120,
+      "priority": "important",
+      "per_person_week": 0.35,
+      "min_qty": 1
+    },
+    {
+      "name": "Chicken",
+      "category": "protein",
+      "unit": "kg",
+      "price": 365,
+      "priority": "important",
+      "per_person_week": 0.45,
+      "min_qty": 0.5
+    },
+    {
+      "name": "Potatoes",
+      "category": "vegetable",
+      "unit": "kg",
+      "price": 90,
+      "priority": "important",
+      "per_person_week": 0.5,
+      "min_qty": 0.5
+    },
+    {
+      "name": "Onions",
+      "category": "vegetable",
+      "unit": "kg",
+      "price": 203,
+      "priority": "important",
+      "per_person_week": 0.4,
+      "min_qty": 0.5
+    },
+    {
+      "name": "Tomatoes",
+      "category": "vegetable",
+      "unit": "kg",
+      "price": 187,
+      "priority": "important",
+      "per_person_week": 0.4,
+      "min_qty": 0.5
+    },
+    {
+      "name": "Bananas",
+      "category": "fruit",
+      "unit": "kg",
+      "price": 220,
+      "priority": "important",
+      "per_person_week": 0.35,
+      "min_qty": 0.5
+    },
+    {
+      "name": "Apples",
+      "category": "fruit",
+      "unit": "kg",
+      "price": 340,
+      "priority": "optional",
+      "per_person_week": 0.2,
+      "min_qty": 0.5
+    },
+    {
+      "name": "Biscuits",
+      "category": "snack",
+      "unit": "pack",
+      "price": 180,
+      "priority": "optional",
+      "per_person_week": 0.25,
+      "min_qty": 1
+    },
+    {
+      "name": "Juice",
+      "category": "snack",
+      "unit": "L",
+      "price": 300,
+      "priority": "optional",
+      "per_person_week": 0.15,
+      "min_qty": 1
+    }
+  ],
+  "sources": [
+    "Pakistan Bureau of Statistics (PBS), SPI week ended 10 September 2026",
+    "PBS Annex 10.09.2026"
+  ]
+}
