@@ -1,0 +1,135 @@
+[
+  {
+    "name": "Atta",
+    "category": "staple",
+    "unit": "5 kg",
+    "price": 600,
+    "priority": "essential"
+  },
+  {
+    "name": "Rice",
+    "category": "staple",
+    "unit": "5 kg",
+    "price": 1500,
+    "priority": "essential"
+  },
+  {
+    "name": "Daal",
+    "category": "staple",
+    "unit": "1 kg",
+    "price": 350,
+    "priority": "essential"
+  },
+  {
+    "name": "Cooking Oil",
+    "category": "staple",
+    "unit": "1 L",
+    "price": 600,
+    "priority": "essential"
+  },
+  {
+    "name": "Sugar",
+    "category": "staple",
+    "unit": "1 kg",
+    "price": 180,
+    "priority": "essential"
+  },
+  {
+    "name": "Tea",
+    "category": "breakfast",
+    "unit": "400 g",
+    "price": 700,
+    "priority": "important"
+  },
+  {
+    "name": "Eggs",
+    "category": "breakfast",
+    "unit": "12 eggs",
+    "price": 350,
+    "priority": "important"
+  },
+  {
+    "name": "Milk",
+    "category": "dairy",
+    "unit": "1 L",
+    "price": 300,
+    "priority": "important"
+  },
+  {
+    "name": "Bread",
+    "category": "breakfast",
+    "unit": "1 loaf",
+    "price": 180,
+    "priority": "important"
+  },
+  {
+    "name": "Butter",
+    "category": "breakfast",
+    "unit": "200 g",
+    "price": 350,
+    "priority": "optional"
+  },
+  {
+    "name": "Chicken",
+    "category": "protein",
+    "unit": "1 kg",
+    "price": 750,
+    "priority": "important"
+  },
+  {
+    "name": "Potatoes",
+    "category": "vegetable",
+    "unit": "1 kg",
+    "price": 150,
+    "priority": "important"
+  },
+  {
+    "name": "Onions",
+    "category": "vegetable",
+    "unit": "1 kg",
+    "price": 180,
+    "priority": "important"
+  },
+  {
+    "name": "Tomatoes",
+    "category": "vegetable",
+    "unit": "1 kg",
+    "price": 200,
+    "priority": "important"
+  },
+  {
+    "name": "Bananas",
+    "category": "fruit",
+    "unit": "1 kg",
+    "price": 250,
+    "priority": "important"
+  },
+  {
+    "name": "Apples",
+    "category": "fruit",
+    "unit": "1 kg",
+    "price": 450,
+    "priority": "optional"
+  },
+  {
+    "name": "Biscuits",
+    "category": "snack",
+    "unit": "1 pack",
+    "price": 200,
+    "priority": "optional"
+  },
+  {
+    "name": "Juice",
+    "category": "snack",
+    "unit": "1 L",
+    "price": 300,
+    "priority": "optional"
+  },
+  {
+    "name": "Chips",
+    "category": "snack",
+    "unit": "1 pack",
+    "price": 150,
+    "priority": "optional"
+  }
+]
